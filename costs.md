@@ -2,18 +2,18 @@
 |Name|Damage|ED|AP|Range|Traits|Value|Rarity|Keywords|
 |---|---|---|---|---|---|---|---|---|
 |Knife                |  2|  2|  -|Thrown Sx4|-                 |2|Common  |BLADE, [ANY]|
-|Astartes Combat Knife|  3|  2|  -|         -|Reliable          |3|Uncommon|BLADE, ADEPTUS ASTARTES|
+|Astartes Combat Knife|  4|  2|  -|         -|Reliable          |4|Rare|BLADE, ADEPTUS ASTARTES|
 |Sword                |  3|  3|  -|         -|Reliable          |3|Common  |BLADE,[ANY]|
-|Mono Knife           |  3|  2| -1|         -|Rending(1)        |3|Uncommon|BLADE, IMPERIUM, SCUM|
-|Industrial Bludgeon  |  4|  2|  -|         -|Brutal,Unwieldy(1)|3|Uncommon|[ANY]|
+|Mono Knife           |  2|  2| -2|         -|Rending(1)        |3|Uncommon|BLADE, IMPERIUM, SCUM|
+|Industrial Bludgeon  |  3|  5|  -|         -|Brutal,Unwieldy(1)|3|Uncommon|[ANY]|
 
 # Chain Weapons
 |Name|Damage|ED|AP|Range|Traits|Value|Rarity|Keywords|
 |---|---|---|---|---|---|---|---|---|
 |Chain Bayonet |  4|  1|  -|         -|Brutal            |3 |Rare     |CHAIN,IMPERIUM,CHAOS|
 |Chainsword    |  5|  4|  -|         -|Brutal,Parry      |4 |Rare     |CHAIN,CHAOS|
-|Chain Axe     |  5|  4|  -|         -|Brutal,Rending(1) |3 |Rare     |BLADE,[ANY]|
-|Eviscerator   |  6|  6| -4|         2|Brutal,Unwieldy(2)|3 |Rare     |CHAIN, 2-HANDED,ADEPTUS ASTARTES, MINISTORUM, ADPETUS SORORITAS|
+|Chain Axe     |  5|  4|  -|         -|Brutal,Rending(1) |4 |Rare     |BLADE,[ANY]|
+|Eviscerator   |  6|  6| -4|         2|Brutal,Unwieldy(2)|5 |Rare     |CHAIN, 2-HANDED,ADEPTUS ASTARTES, MINISTORUM, ADPETUS SORORITAS|
 |Chain Fist    |  7|  6| -4|         -|Brutal,Unwieldy(3)|10|Very Rare|CHAIN,POWER FIELD IMPERIUM,CHAOS,ADEPTUS ASTARTES|
 
 # Exotic Melee Weapons
@@ -61,39 +61,40 @@
 # Ranged Weapons
 |Name|Damage|ED|AP|SHT|MED|LNG|Salvo|Traits|Value|Rarity|Keywords|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|Bolt Pistol           | 10|  1|  -|  6| 12| 18|    1|Brutal, Pistol                 |4 |Uncommon   |BOLT,IMPERIUM|
-|Heavy Bolt Pistol     | 10|  1| -1|  6| 12| 18|    1|Brutal, Pistol                 |7 |Very Rare  |BOLT,IMPERIUM,ADEPTUS ASTARTES,PRIMARIS|
-|Boltgun               | 10|  1|  -| 12| 24| 36|    2|Brutal, Rapid Fire[2]          |6 |Uncommon   |BOLT,IMPERIUM|
-|Bolt Rifle            | 10|  1| -1| 15| 30| 45|    2|Brutal, Rapid Fire[2]          |7 |Very Rare  |BOLT,IMPERIUM,ADEPTUS ASTARTES,PRIMARIS|
-|Storm Bolter          | 10|  1|  -| 12| 24| 36|    4|Brutal, Heavy[3],Rapid Fire[2] |6 |Rare       |BOLT,IMPERIUM|
-|Assault Bolter        | 12|  2| -1|  9| 18| 27|    3|Assault,Brutal                 |8 |Very Rare  |BOLT,IMPERIUM,ADEPTUS ASTARTES,PRIMARIS|
-|Heavy Bolter          | 12|  2| -1| 18| 36| 54|    3|Brutal, Heavy[4]               |6 |Uncommon   |BOLT,IMPERIUM|
+|Bolt Pistol           |  8|  2|  -|  6| 12| 18|    1|Brutal, Pistol, Blast(1)                  |4 |Uncommon   |BOLT,IMPERIUM|
+|Heavy Bolt Pistol     | 9|  2| -1|  6| 12| 18|    1|Brutal, Pistol, Blast(2)                  |7 |Very Rare  |BOLT,IMPERIUM,ADEPTUS ASTARTES,PRIMARIS|
+|Boltgun               | 8|  2|  -| 12| 24| 36|    2|Brutal, Rapid Fire[2], Blast(2)           |6 |Uncommon   |BOLT,IMPERIUM|
+|Bolt Rifle            | 8|  2| -2| 15| 30| 45|    2|Brutal, Rapid Fire[2], Blast(2)           |7 |Very Rare  |BOLT,IMPERIUM,ADEPTUS ASTARTES,PRIMARIS|
+|Storm Bolter          | 8|  2|  -| 12| 24| 36|    4|Brutal, Heavy[3],Rapid Fire[2], Blast(2)  |6 |Rare       |BOLT,IMPERIUM|
+|Assault Bolter        | 10|  3| -1|  9| 18| 27|    3|Assault, Brutal, Blast(2)                 |8 |Very Rare  |BOLT,IMPERIUM,ADEPTUS ASTARTES,PRIMARIS|
+|Heavy Bolter          | 10|  4| -1| 18| 36| 54|    3|Brutal, Heavy[4], Blast(3)                |8 |Uncommon   |BOLT,IMPERIUM|
 
 # Las Weapons
 |Name|Damage|ED|AP|SHT|MED|LNG|Salvo|Traits|Value|Rarity|Keywords|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|Laspistol                |  7|  1|  -|  6| 12| 18|    1|Pistol, Reliable                 |3 |Common     |LAS,IMPERIUM|
-|Hot-Shot Laspistol       |  7|  1| -2|  3|  6|  9|    1|Pistol, Reliable                 |6 |Rare       |LAS,IMPERIUM,ASTRA MILITARUM|
-|Master-Crafted Laspistol | 10|  1|  -|  6| 12| 18|    1|Pistol                           |6 |Very Rare  |LAS,IMPERIUM|
-|Lasgun                   |  7|  1|  -| 12| 24| 36|    2|Rapid Fire[1], Reliable          |3 |Common     |LAS,IMPERIUM|
-|Hot-Shot Lasgun          |  7|  1| -2|  9| 18| 27|    2|Rapid Fire[1], Reliable          |6 |Rare       |LAS,IMPERIUM,ASTRA MILITARUM|
-|Hot-Shot Volley Gun      | 10|  1| -2| 12| 24| 36|    4|Heavy[4], Reliable               |6 |Rare       |LAS,IMPERIUM,ASTRA MILITARUM|
-|Long Las                 | 10|  1|  -| 18| 36| 54|    0|Sniper[1], Reliable              |6 |Uncommon   |LAS,IMPERIUM,ASTRA MILITARUM|
-|Lascannon                | 18|  3| -3| 24| 48| 72|    1|Heavy[4], Reliable               |9 |Uncommon   |LAS,IMPERIUM|
+|Laspistol                |  6|  3|  -|  6| 12| 18|    1|Pistol, Reliable                 |3 |Common     |LAS,IMPERIUM|
+|Hot-Shot Laspistol       |  7|  3| -2|  3|  6|  9|    1|Pistol, Reliable                 |4 |Rare       |LAS,IMPERIUM,ASTRA MILITARUM|
+|Master-Crafted Laspistol |  8|  3|  -|  6| 12| 18|    1|Pistol                           |6 |Rare       |LAS,IMPERIUM|
+|Lasgun                   |  6|  3|  -| 12| 24| 36|    2|Rapid Fire[1], Reliable          |3 |Common     |LAS,IMPERIUM|
+|Hot-Shot Lasgun          |  7|  3| -2|  9| 18| 27|    2|Rapid Fire[1], Reliable          |5 |Rare       |LAS,IMPERIUM,ASTRA MILITARUM|
+|Hot-Shot Volley Gun      |  8|  3| -2| 12| 24| 36|    4|Heavy[4], Reliable               |6 |Rare       |LAS,IMPERIUM,ASTRA MILITARUM|
+|Long Las                 |  8|  3| -1| 18| 36| 54|    0|Sniper[1], Reliable              |7 |Uncommon       |LAS,IMPERIUM,ASTRA MILITARUM|
+|Lascannon                | 15|  6| -3| 24| 48| 72|    1|Heavy[4], Reliable               |9 |Uncommon   |LAS,IMPERIUM|
 
 # Plasma Weapons
+Supercharge MUST be used
 |Name|Damage|ED|AP|SHT|MED|LNG|Salvo|Traits|Value|Rarity|Keywords|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|Plasma Pistol    | 15|  1| -3|  6| 12| 18|    1|Pistol, Supercharge                 |6 |Rare       |PROJECTILE,IMPERIUM|
-|Plasma Gun       | 15|  1| -3| 12| 24| 36|    2|Rapid Fire[1], Supercharge          |6 |Rare       |PROJECTILE,IMPERIUM|
-|Plasma Cannon    | 15|  2| -3| 18| 36| 54|    3|Heavy[8], Supercharge               |7 |Very Rare  |PROJECTILE,IMPERIUM|
+|Plasma Pistol    | 10|  5| -3|  6| 12| 18|    1|Pistol, Supercharge                 |7 |Rare       |PROJECTILE,IMPERIUM|
+|Plasma Gun       | 10|  5| -3| 12| 24| 36|    2|Rapid Fire[1], Supercharge          |7 |Rare       |PROJECTILE,IMPERIUM|
+|Plasma Cannon    | 13|  5| -3| 18| 36| 54|    3|Heavy[8], Supercharge               |7 |Very Rare  |PROJECTILE,IMPERIUM|
 
 # Melta Weapons
 |Name|Damage|ED|AP|SHT|MED|LNG|Salvo|Traits|Value|Rarity|Keywords|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|Inferno Pistol    | 16|  1| -4|  3|  6|  9|    1|Melta,Pistol                        |6 |Rare       |PROJECTILE,IMPERIUM|
-|Meltagun          | 16|  2| -4|  6| 12| 18|    1|Rapid Fire[1], Melta                |6 |Rare       |PROJECTILE,IMPERIUM|
-|Multi-Melta       | 16|  3| -4| 12| 24| 36|    1|Heavy[8], Melta                     |7 |Very Rare  |PROJECTILE,IMPERIUM|
+|Inferno Pistol    | 12|  4| -4|  3|  6|  9|    1|Melta,Pistol                        |7 |Rare       |PROJECTILE,IMPERIUM|
+|Meltagun          | 12|  4| -4|  6| 12| 18|    1|Rapid Fire[1], Melta                |7 |Rare       |PROJECTILE,IMPERIUM|
+|Multi-Melta       | 12|  5| -4| 12| 24| 36|    1|Heavy[8], Melta                     |7 |Very Rare  |PROJECTILE,IMPERIUM|
 
 # Projectile Weapons
 |Name|Damage|ED|AP|SHT|MED|LNG|Salvo|Traits|Value|Rarity|Keywords|
